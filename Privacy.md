@@ -1,4 +1,6 @@
 # Privacy Policy for MemoBox
+**Effective Date:** 22/08/2024
+
 Thank you for choosing **MemoBox**. Your privacy is important to us, and we are committed to protecting your personal information. This Privacy Policy explains how we handle the data collected by our application.
 
 ## 1. Data Collection and Usage
